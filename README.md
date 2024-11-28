@@ -25,7 +25,7 @@ WHERE id NOT IN
 
 [Интерактивная версия](https://onecompiler.com/postgresql/42zetmdn7)
 
-## Задание 2 ([ссылка на решение](https://replit.com/@IliaNiekrasov1/CooperativeCornsilkEvaluations)
+## Задание 2 ([ссылка на решение](https://replit.com/@IliaNiekrasov1/CooperativeCornsilkEvaluations))
 Решение достаточно много:
 * Разделить по символу пробела, получить имя и число.
 * Получить индекс последнего символа пробела, считать значения до него - именем, после него - числом.
